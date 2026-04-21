@@ -8,6 +8,11 @@ This analysis evaluates how paid promotions (sponsored listings) and product cat
 - Which product categories dominate demand?  
 - Do sponsored products generate more purchases than organic products?
 
+## Tools Used
+- **Python** – Data analysis and cleaning workflow  
+- **Pandas** – Data manipulation, cleaning, and aggregation  
+- **Google Colab** – Cloud-based environment for running and sharing notebooks  
+  
 ## Key Insights
 - **Sponsored vs Organic Products**  
   Sponsored products show significantly higher average purchases compared to organic products, indicating that paid promotions improve product visibility and drive conversions.
